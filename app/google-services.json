@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070394052501",
+    "project_id": "mi-notes-aedec",
+    "storage_bucket": "mi-notes-aedec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070394052501:android:27ed93e35f2245f4b2309c",
+        "android_client_info": {
+          "package_name": "com.example.minotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070394052501-52ojggq4krpqjidcgspkqne6nt60mu1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQYWAKDyshodhmu5HExeR3wPPS9LvrxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070394052501-52ojggq4krpqjidcgspkqne6nt60mu1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
